@@ -1,0 +1,46 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas específicas de sistemas operativos
+__MACOSX/
+node_modules/
+.env
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de compilación y temporales
+*.log
+*.tmp
+*.bak
+*.out
+*.aux
+*.class
+*.pyc
+*.o
+*.so
+
+# Archivos específicos de lenguajes o frameworks (ajusta según tu proyecto)
+dist/
+build/
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Archivos generados por dependencias
+package-lock.json
+yarn.lock
+
+# Bases de datos o configuraciones locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Otros
+coverage/
+reports/
